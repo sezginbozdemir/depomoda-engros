@@ -103,7 +103,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
 
   return (
     <>
-      {/* Converted to a semantic button to guarantee native click triggering on iOS Safari */}
+      {/* Native clickable wrapper button for stable iOS triggering */}
       <button
         type="button"
         className="product-card card-animate cursor-pointer w-full text-left block p-0 border-none bg-transparent font-normal normal-case appearance-none"
@@ -202,7 +202,6 @@ export function ProductCard({ product, index }: ProductCardProps) {
             </div>
           </div>
 
-          {/* Wrapper to handle block-level display layout safely inside a button element */}
           <span className="block mt-2">
             <a
               href={buildWhatsAppLink(product.id)}
@@ -222,7 +221,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
       {/* Expanded Modal */}
       {modalOpen && (
         <div
-          className="fixed inset-0 bg-black/85 flex items-center justify-center z-50 p-4 cursor-zoom-out"
+          className="fixed inset-0 bg-black/90 flex items-center justify-center z-50 p-4 cursor-zoom-out"
           onClick={() => setModalOpen(false)}
         >
           {/* Close Button */}
@@ -235,16 +234,16 @@ export function ProductCard({ product, index }: ProductCardProps) {
             ×
           </button>
 
-          {/* Centered Image Container */}
+          {/* Centered Image Container - Reconfigured to strictly constrain sizing rules for WebKit/iOS */}
           <div
-            className="relative max-w-full max-h-[90vh] aspect-[3/4] rounded-lg overflow-hidden shadow-2xl cursor-default"
+            className="relative w-full max-w-md h-full max-h-[80vh] flex items-center justify-center rounded-lg overflow-hidden shadow-2xl cursor-default"
             onClick={(e) => e.stopPropagation()}
           >
             {images[modalImg] ? (
               <img
                 src={images[modalImg]}
                 alt={`Jeans Cod ${product.id}`}
-                className="w-auto h-full max-w-full max-h-[90vh] object-contain mx-auto"
+                className="w-full h-full object-contain block select-none"
               />
             ) : (
               <div className="w-80 bg-white p-4 rounded-xl">
@@ -261,7 +260,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
                     e.stopPropagation();
                     setModalImg((i) => (i - 1 + images.length) % images.length);
                   }}
-                  className="absolute left-4 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white w-10 h-10 rounded-full flex items-center justify-center transition-colors text-xl border-none cursor-pointer"
+                  className="absolute left-4 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white w-10 h-10 rounded-full flex items-center justify-center transition-colors text-xl border-none cursor-pointer z-10"
                   aria-label="Anterioară"
                 >
                   ‹
@@ -272,7 +271,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
                     e.stopPropagation();
                     setModalImg((i) => (i + 1) % images.length);
                   }}
-                  className="absolute right-4 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white w-10 h-10 rounded-full flex items-center justify-center transition-colors text-xl border-none cursor-pointer"
+                  className="absolute right-4 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white w-10 h-10 rounded-full flex items-center justify-center transition-colors text-xl border-none cursor-pointer z-10"
                   aria-label="Următoarea"
                 >
                   ›
