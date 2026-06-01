@@ -103,13 +103,15 @@ export function ProductCard({ product, index }: ProductCardProps) {
 
   return (
     <>
-      <article
-        className="product-card card-animate cursor-pointer"
+      {/* Converted to a semantic button to guarantee native click triggering on iOS Safari */}
+      <button
+        type="button"
+        className="product-card card-animate cursor-pointer w-full text-left block p-0 border-none bg-transparent font-normal normal-case appearance-none"
         style={delayStyle}
         onClick={openModal}
       >
         {/* Image with nav */}
-        <div className="relative overflow-hidden bg-gray-50 group">
+        <div className="relative overflow-hidden bg-gray-50 group pointer-events-auto">
           <GalleryImage
             images={images}
             currentIdx={currentImg}
@@ -122,15 +124,17 @@ export function ProductCard({ product, index }: ProductCardProps) {
           {images.length > 1 && (
             <>
               <button
+                type="button"
                 onClick={prevImg}
-                className="absolute left-1.5 top-1/2 -translate-y-1/2 bg-black/30 text-white w-7 h-7 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-lg leading-none"
+                className="absolute left-1.5 top-1/2 -translate-y-1/2 bg-black/30 text-white w-7 h-7 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-lg leading-none border-none cursor-pointer"
                 aria-label="Imaginea anterioară"
               >
                 ‹
               </button>
               <button
+                type="button"
                 onClick={nextImg}
-                className="absolute right-1.5 top-1/2 -translate-y-1/2 bg-black/30 text-white w-7 h-7 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-lg leading-none"
+                className="absolute right-1.5 top-1/2 -translate-y-1/2 bg-black/30 text-white w-7 h-7 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-lg leading-none border-none cursor-pointer"
                 aria-label="Imaginea următoare"
               >
                 ›
@@ -139,11 +143,12 @@ export function ProductCard({ product, index }: ProductCardProps) {
                 {images.map((_, i) => (
                   <button
                     key={i}
+                    type="button"
                     onClick={(e) => {
                       e.stopPropagation();
                       setCurrentImg(i);
                     }}
-                    className={`w-1.5 h-1.5 rounded-full border-none transition-colors ${
+                    className={`w-1.5 h-1.5 rounded-full border-none transition-colors cursor-pointer ${
                       i === currentImg ? "bg-white" : "bg-white/50"
                     }`}
                     aria-label={`Imaginea ${i + 1}`}
@@ -156,7 +161,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
 
         {/* Info */}
         <div className="p-3 space-y-1.5">
-          <p className="font-heading font-700 text-base tracking-wide">
+          <p className="font-heading font-700 text-base tracking-wide text-gray-900">
             Cod: {product.id}
           </p>
           <div className="text-sm text-gray-600 space-y-0.5">
@@ -197,21 +202,24 @@ export function ProductCard({ product, index }: ProductCardProps) {
             </div>
           </div>
 
-          <a
-            href={buildWhatsAppLink(product.id)}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="whatsapp-btn mt-2"
-            aria-label={`Comandă Cod ${product.id} pe WhatsApp`}
-            onClick={(e) => e.stopPropagation()}
-          >
-            <WhatsAppIcon size={14} />
-            SCRIE PE WHATSAPP
-          </a>
+          {/* Wrapper to handle block-level display layout safely inside a button element */}
+          <span className="block mt-2">
+            <a
+              href={buildWhatsAppLink(product.id)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="whatsapp-btn inline-flex items-center justify-center w-full"
+              aria-label={`Comandă Cod ${product.id} pe WhatsApp`}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <WhatsAppIcon size={14} />
+              SCRIE PE WHATSAPP
+            </a>
+          </span>
         </div>
-      </article>
+      </button>
 
-      {/* Expanded Modal - Now strictly showing only the enlarged centered image */}
+      {/* Expanded Modal */}
       {modalOpen && (
         <div
           className="fixed inset-0 bg-black/85 flex items-center justify-center z-50 p-4 cursor-zoom-out"
@@ -219,6 +227,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
         >
           {/* Close Button */}
           <button
+            type="button"
             onClick={() => setModalOpen(false)}
             className="absolute top-4 right-4 bg-white/10 hover:bg-white/20 text-white w-10 h-10 rounded-full flex items-center justify-center text-2xl transition-colors border-none cursor-pointer z-52"
             aria-label="Închide"
@@ -247,6 +256,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
             {images.length > 1 && (
               <>
                 <button
+                  type="button"
                   onClick={(e) => {
                     e.stopPropagation();
                     setModalImg((i) => (i - 1 + images.length) % images.length);
@@ -257,6 +267,7 @@ export function ProductCard({ product, index }: ProductCardProps) {
                   ‹
                 </button>
                 <button
+                  type="button"
                   onClick={(e) => {
                     e.stopPropagation();
                     setModalImg((i) => (i + 1) % images.length);
