@@ -19,10 +19,10 @@ export const products: Product[] = [
     "units": 5,
     "unitPrice": 45,
     "brand": "Cavallione",
-    "image": "/products/Cavallione/6001 - 34 36 38 40 42 - 1 seri - 45 lei/Flow May 31 19-02 (10).jpeg",
+    "image": "/products/Cavallione/6001 - 34 36 38 40 42 - 1 seri - 45 lei/cavallione-engros-6001-1.jpeg",
     "extraImages": [
-      "/products/Cavallione/6001 - 34 36 38 40 42 - 1 seri - 45 lei/Flow May 31 19-02 (11).jpeg",
-      "/products/Cavallione/6001 - 34 36 38 40 42 - 1 seri - 45 lei/Flow May 31 19-02.jpeg"
+      "/products/Cavallione/6001 - 34 36 38 40 42 - 1 seri - 45 lei/cavallione-engros-6001-2.jpeg",
+      "/products/Cavallione/6001 - 34 36 38 40 42 - 1 seri - 45 lei/cavallione-engros-6001-3.jpeg"
     ],
     "keywords": []
   },
@@ -32,9 +32,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 45,
     "brand": "EVA",
-    "image": "/products/EVA/4593 - 34 36 36 38 38 40 40 42 - 2 seri - 45 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/EVA/4593 - 34 36 36 38 38 40 40 42 - 2 seri - 45 lei/eva-engros-4593-1.jpeg",
     "extraImages": [
-      "/products/EVA/4593 - 34 36 36 38 38 40 40 42 - 2 seri - 45 lei/IMG 9387 Flow May 31 19 02.jpeg"
+      "/products/EVA/4593 - 34 36 36 38 38 40 40 42 - 2 seri - 45 lei/eva-engros-4593-2.jpeg"
     ],
     "keywords": []
   },
@@ -44,9 +44,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 45,
     "brand": "EVA",
-    "image": "/products/EVA/8732 - 34 36 36 38 40 42 - 3 seri - 45 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/EVA/8732 - 34 36 36 38 40 42 - 3 seri - 45 lei/eva-engros-8732-1.jpeg",
     "extraImages": [
-      "/products/EVA/8732 - 34 36 36 38 40 42 - 3 seri - 45 lei/IMG 9380 Flow May 31 19.jpeg"
+      "/products/EVA/8732 - 34 36 36 38 40 42 - 3 seri - 45 lei/eva-engros-8732-2.jpeg"
     ],
     "keywords": []
   },
@@ -56,9 +56,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "FAF",
-    "image": "/products/FAF/2851 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 19-02 (2).jpeg",
+    "image": "/products/FAF/2851 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-2851-1.jpeg",
     "extraImages": [
-      "/products/FAF/2851 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/IMG 9518 Flow May 31 19 02.jpeg"
+      "/products/FAF/2851 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-2851-2.jpeg"
     ],
     "keywords": []
   },
@@ -68,7 +68,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "FAF",
-    "image": "/products/FAF/3098 - 34 36 36 38 38 40 - 1 seri - 35 lei/OpenAI Playground June 1 2026.png",
+    "image": "/products/FAF/3098 - 34 36 36 38 38 40 - 1 seri - 35 lei/faf-engros-3098-1.png",
     "extraImages": [],
     "keywords": []
   },
@@ -78,7 +78,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "FAF",
-    "image": "/products/FAF/3116 - 34 36 36 38 38 40 - 2 seri - 35 lei/OpenAI Playground June 1 2026 (1).png",
+    "image": "/products/FAF/3116 - 34 36 36 38 38 40 - 2 seri - 35 lei/faf-engros-3116-1.png",
     "extraImages": [],
     "keywords": []
   },
@@ -88,7 +88,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "FAF",
-    "image": "/products/FAF/3117 - 34 36 36 38 38 40 - 3 seri - 35 lei/Professional Jeans Image.jpeg",
+    "image": "/products/FAF/3117 - 34 36 36 38 38 40 - 3 seri - 35 lei/faf-engros-3117-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -98,10 +98,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "FAF",
-    "image": "/products/FAF/3311 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/FAF/3311 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3311-1.jpeg",
     "extraImages": [
-      "/products/FAF/3311 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/IMG 9667 Flow May 31 19 02.jpeg",
-      "/products/FAF/3311 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/IMG 9668 Flow May 31 19 02.jpeg"
+      "/products/FAF/3311 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3311-2.jpeg",
+      "/products/FAF/3311 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3311-3.jpeg"
     ],
     "keywords": []
   },
@@ -111,10 +111,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "FAF",
-    "image": "/products/FAF/3411 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 2026 (1).jpeg",
+    "image": "/products/FAF/3411 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3411-1.jpeg",
     "extraImages": [
-      "/products/FAF/3411 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 2026 (2).jpeg",
-      "/products/FAF/3411 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/IMG 9483 Flow May 31 19 02.jpeg"
+      "/products/FAF/3411 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3411-2.jpeg",
+      "/products/FAF/3411 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3411-3.jpeg"
     ],
     "keywords": []
   },
@@ -124,10 +124,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "FAF",
-    "image": "/products/FAF/3502 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/FAF/3502 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3502-1.jpeg",
     "extraImages": [
-      "/products/FAF/3502 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 2026.jpeg",
-      "/products/FAF/3502 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/IMG 9405 Flow May 31 19 02.jpeg"
+      "/products/FAF/3502 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3502-2.jpeg",
+      "/products/FAF/3502 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/faf-engros-3502-3.jpeg"
     ],
     "keywords": []
   },
@@ -137,10 +137,10 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/3043 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (10).jpeg",
+    "image": "/products/HAPPY PINK/3043 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-3043-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/3043 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (5).jpeg",
-      "/products/HAPPY PINK/3043 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/IMG 9589 Flow May 31.jpeg"
+      "/products/HAPPY PINK/3043 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-3043-2.jpeg",
+      "/products/HAPPY PINK/3043 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-3043-3.jpeg"
     ],
     "keywords": []
   },
@@ -150,9 +150,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/3075 - 31 32 33 34 34 36 38 - 4 seri - 35 lei/Flow May 31 19-02 (17).jpeg",
+    "image": "/products/HAPPY PINK/3075 - 31 32 33 34 34 36 38 - 4 seri - 35 lei/happy-pink-engros-3075-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/3075 - 31 32 33 34 34 36 38 - 4 seri - 35 lei/Flow May 31 19-02 (20).jpeg"
+      "/products/HAPPY PINK/3075 - 31 32 33 34 34 36 38 - 4 seri - 35 lei/happy-pink-engros-3075-2.jpeg"
     ],
     "keywords": []
   },
@@ -162,10 +162,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/3079 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/Flow May 31 19-02 (15).jpeg",
+    "image": "/products/HAPPY PINK/3079 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/happy-pink-engros-3079-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/3079 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/Flow May 31 19-02 (18).jpeg",
-      "/products/HAPPY PINK/3079 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/IMG 9650 Flow May 31 19 02.jpeg"
+      "/products/HAPPY PINK/3079 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/happy-pink-engros-3079-2.jpeg",
+      "/products/HAPPY PINK/3079 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/happy-pink-engros-3079-3.jpeg"
     ],
     "keywords": []
   },
@@ -175,9 +175,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/3089 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/Flow May 31 19-02 (16).jpeg",
+    "image": "/products/HAPPY PINK/3089 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/happy-pink-engros-3089-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/3089 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/IMG 9609 Flow May 31 19 02.jpeg"
+      "/products/HAPPY PINK/3089 - 31 32 33 34 34 36 38 - 2 seri - 35 lei/happy-pink-engros-3089-2.jpeg"
     ],
     "keywords": []
   },
@@ -187,9 +187,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4048 - 26 27 27 28 28 29 30 31 - 3 seri - 35 lei/Flow May 31 19-02 (13).jpeg",
+    "image": "/products/HAPPY PINK/4048 - 26 27 27 28 28 29 30 31 - 3 seri - 35 lei/happy-pink-engros-4048-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/4048 - 26 27 27 28 28 29 30 31 - 3 seri - 35 lei/Flow May 31 19-02 (19).jpeg"
+      "/products/HAPPY PINK/4048 - 26 27 27 28 28 29 30 31 - 3 seri - 35 lei/happy-pink-engros-4048-2.jpeg"
     ],
     "keywords": []
   },
@@ -199,9 +199,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4074 - 28 29 30 31 32 32 33 34 - 3 seri - 35 lei/Flow May 31 19-02 (14).jpeg",
+    "image": "/products/HAPPY PINK/4074 - 28 29 30 31 32 32 33 34 - 3 seri - 35 lei/happy-pink-engros-4074-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/4074 - 28 29 30 31 32 32 33 34 - 3 seri - 35 lei/IMG 9663 Flow May 31 19 02.jpeg"
+      "/products/HAPPY PINK/4074 - 28 29 30 31 32 32 33 34 - 3 seri - 35 lei/happy-pink-engros-4074-2.jpeg"
     ],
     "keywords": []
   },
@@ -211,10 +211,10 @@ export const products: Product[] = [
     "units": 9,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4110 - 26 27 27 27 28 28 29 30 31 - 3 seri - 35 lei/Flow May 31 19-02 (11).jpeg",
+    "image": "/products/HAPPY PINK/4110 - 26 27 27 27 28 28 29 30 31 - 3 seri - 35 lei/happy-pink-engros-4110-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/4110 - 26 27 27 27 28 28 29 30 31 - 3 seri - 35 lei/Flow May 31 19-02 (12).jpeg",
-      "/products/HAPPY PINK/4110 - 26 27 27 27 28 28 29 30 31 - 3 seri - 35 lei/Flow May 31 19-02 (7).jpeg"
+      "/products/HAPPY PINK/4110 - 26 27 27 27 28 28 29 30 31 - 3 seri - 35 lei/happy-pink-engros-4110-2.jpeg",
+      "/products/HAPPY PINK/4110 - 26 27 27 27 28 28 29 30 31 - 3 seri - 35 lei/happy-pink-engros-4110-3.jpeg"
     ],
     "keywords": []
   },
@@ -224,9 +224,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4163 - 31 32 32 33 33 34 36 38 - 1 seri - 35 lei/Flow May 31 19-02 (8).jpeg",
+    "image": "/products/HAPPY PINK/4163 - 31 32 32 33 33 34 36 38 - 1 seri - 35 lei/happy-pink-engros-4163-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/4163 - 31 32 32 33 33 34 36 38 - 1 seri - 35 lei/IMG 9630 Flow May 31 19 02.jpeg"
+      "/products/HAPPY PINK/4163 - 31 32 32 33 33 34 36 38 - 1 seri - 35 lei/happy-pink-engros-4163-2.jpeg"
     ],
     "keywords": []
   },
@@ -236,10 +236,10 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4265 - 28 29 30 31 32 32 33 34 - 1 seri - 35 lei/IMG 9625 Flow May 31 19 02.jpeg",
+    "image": "/products/HAPPY PINK/4265 - 28 29 30 31 32 32 33 34 - 1 seri - 35 lei/happy-pink-engros-4265-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/4265 - 28 29 30 31 32 32 33 34 - 1 seri - 35 lei/IMG 9627 Flow May 31 19 02.jpeg",
-      "/products/HAPPY PINK/4265 - 28 29 30 31 32 32 33 34 - 1 seri - 35 lei/IMG 9629 Flow May 31 19 02.jpeg"
+      "/products/HAPPY PINK/4265 - 28 29 30 31 32 32 33 34 - 1 seri - 35 lei/happy-pink-engros-4265-2.jpeg",
+      "/products/HAPPY PINK/4265 - 28 29 30 31 32 32 33 34 - 1 seri - 35 lei/happy-pink-engros-4265-3.jpeg"
     ],
     "keywords": []
   },
@@ -249,7 +249,7 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4288 - 26 27 27 28 28 29 30 31 - 3 seri - 35 lei/Flow May 31 19-02   (6).jpeg",
+    "image": "/products/HAPPY PINK/4288 - 26 27 27 28 28 29 30 31 - 3 seri - 35 lei/happy-pink-engros-4288-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -259,9 +259,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/4289 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/HAPPY PINK/4289 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-4289-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/4289 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/IMG 9677 Flow May 31 19 02.jpeg"
+      "/products/HAPPY PINK/4289 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-4289-2.jpeg"
     ],
     "keywords": []
   },
@@ -271,7 +271,7 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/5223 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/IMG 9571 Flow May 31 19 02.jpeg",
+    "image": "/products/HAPPY PINK/5223 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5223-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -281,11 +281,11 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/IMG 9567 Flow May 31 19 02.jpeg",
+    "image": "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5224-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/IMG 9568 Flow May 31 19 02.jpeg",
-      "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/IMG 9577 Flow May 31 19 02.jpeg",
-      "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Make It Better Quality Product May 31.jpeg"
+      "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5224-2.jpeg",
+      "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5224-3.jpeg",
+      "/products/HAPPY PINK/5224 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5224-4.jpeg"
     ],
     "keywords": []
   },
@@ -295,7 +295,7 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/5622 - 34 36 36 38 38 40 42 44 - 1 seri - 35 lei/IMG 9634 Flow May 31 19 02.jpeg",
+    "image": "/products/HAPPY PINK/5622 - 34 36 36 38 38 40 42 44 - 1 seri - 35 lei/happy-pink-engros-5622-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -305,7 +305,7 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/5689 - 34 36 36 38 38 40 42 44 - 2 seri - 35 lei/Flow May 31 19-02 (2).jpeg",
+    "image": "/products/HAPPY PINK/5689 - 34 36 36 38 38 40 42 44 - 2 seri - 35 lei/happy-pink-engros-5689-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -315,9 +315,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/5711 - 34 36 36 38 38 40 42 44 - 2 seri - 35 lei/IMG 9622 Flow May 31 19 02.jpeg",
+    "image": "/products/HAPPY PINK/5711 - 34 36 36 38 38 40 42 44 - 2 seri - 35 lei/happy-pink-engros-5711-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/5711 - 34 36 36 38 38 40 42 44 - 2 seri - 35 lei/Make It Better Quality Product May 31.jpeg"
+      "/products/HAPPY PINK/5711 - 34 36 36 38 38 40 42 44 - 2 seri - 35 lei/happy-pink-engros-5711-2.jpeg"
     ],
     "keywords": []
   },
@@ -327,9 +327,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HAPPY PINK",
-    "image": "/products/HAPPY PINK/5833 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/HAPPY PINK/5833 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5833-1.jpeg",
     "extraImages": [
-      "/products/HAPPY PINK/5833 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02.jpeg"
+      "/products/HAPPY PINK/5833 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/happy-pink-engros-5833-2.jpeg"
     ],
     "keywords": []
   },
@@ -339,7 +339,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "HEPYEK",
-    "image": "/products/HEPYEK/501 - 26 27 28 29 30 31 - 12 seri - 35 lei/IMG 9619 Flow May 31 19 02.jpeg",
+    "image": "/products/HEPYEK/501 - 26 27 28 29 30 31 - 12 seri - 35 lei/hepyek-engros-501-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -349,7 +349,7 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "HEPYEK",
-    "image": "/products/HEPYEK/501Y - 26 27 27 28 29 30 31 - ? - 35 lei/IMG 9637 Flow May 31 19 02.jpeg",
+    "image": "/products/HEPYEK/501Y - 26 27 27 28 29 30 31 - ? - 35 lei/hepyek-engros-501-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -359,7 +359,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "HEPYEK",
-    "image": "/products/HEPYEK/574 - 26 27 28 29 30 31 - 1 seri - 35 lei/IMG 9616 Flow May 31 19 02.jpeg",
+    "image": "/products/HEPYEK/574 - 26 27 28 29 30 31 - 1 seri - 35 lei/hepyek-engros-574-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -369,22 +369,22 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "HEPYEK",
-    "image": "/products/HEPYEK/994 - 28 29 29 30 31 32 33 34 - 3 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/HEPYEK/994 - 28 29 29 30 31 32 33 34 - 3 seri - 35 lei/hepyek-engros-994-1.jpeg",
     "extraImages": [
-      "/products/HEPYEK/994 - 28 29 29 30 31 32 33 34 - 3 seri - 35 lei/IMG 9613 Flow May 31 19 02.jpeg"
+      "/products/HEPYEK/994 - 28 29 29 30 31 32 33 34 - 3 seri - 35 lei/hepyek-engros-994-2.jpeg"
     ],
     "keywords": []
   },
   {
-    "id": "102K",
+    "id": "102",
     "sizes": "34 - 42",
     "units": 7,
     "unitPrice": 35,
     "brand": "KAROL",
-    "image": "/products/KAROL/102K - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (7).jpeg",
+    "image": "/products/KAROL/102 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/karol-engros-102-1.jpeg",
     "extraImages": [
-      "/products/KAROL/102K - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (8).jpeg",
-      "/products/KAROL/102K - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (9).jpeg"
+      "/products/KAROL/102 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/karol-engros-102-2.jpeg",
+      "/products/KAROL/102 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/karol-engros-102-3.jpeg"
     ],
     "keywords": []
   },
@@ -394,10 +394,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "KAROL",
-    "image": "/products/KAROL/198 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/KAROL/198 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/karol-engros-198-1.jpeg",
     "extraImages": [
-      "/products/KAROL/198 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/Flow May 31 19-02 (5).jpeg",
-      "/products/KAROL/198 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/Flow May 31 19-02 (6).jpeg"
+      "/products/KAROL/198 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/karol-engros-198-2.jpeg",
+      "/products/KAROL/198 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/karol-engros-198-3.jpeg"
     ],
     "keywords": []
   },
@@ -407,10 +407,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "KAROL",
-    "image": "/products/KAROL/490 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/KAROL/490 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/karol-engros-490-1.jpeg",
     "extraImages": [
-      "/products/KAROL/490 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 19-02 (2).jpeg",
-      "/products/KAROL/490 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/Flow May 31 19-02 (3).jpeg"
+      "/products/KAROL/490 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/karol-engros-490-2.jpeg",
+      "/products/KAROL/490 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/karol-engros-490-3.jpeg"
     ],
     "keywords": []
   },
@@ -420,9 +420,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "KAROL",
-    "image": "/products/KAROL/574 - 36 38 38 40 40 42 - 2 seri - 40 lei/Flow May 31 19-02 (12).jpeg",
+    "image": "/products/KAROL/574 - 36 38 38 40 40 42 - 2 seri - 40 lei/karol-engros-574-1.jpeg",
     "extraImages": [
-      "/products/KAROL/574 - 36 38 38 40 40 42 - 2 seri - 40 lei/IMG 9399 Flow May 31 19 02.jpeg"
+      "/products/KAROL/574 - 36 38 38 40 40 42 - 2 seri - 40 lei/karol-engros-574-2.jpeg"
     ],
     "keywords": []
   },
@@ -432,7 +432,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/005 - 42 44 46 48 50 52 - 3 seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/Kentachvi/005 - 42 44 46 48 50 52 - 3 seri - 40 lei/kentachvi-engros-005-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -442,7 +442,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/006 - 42 44 46 48 50 52 - 5 seri - 40 lei/Flow May 31 2026.jpeg",
+    "image": "/products/Kentachvi/006 - 42 44 46 48 50 52 - 5 seri - 40 lei/kentachvi-engros-006-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -452,9 +452,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/007-1 - 42 44 46 48 50 52 - 1 seri - 40 lei/Flow May 31 19-02 (2).jpeg",
+    "image": "/products/Kentachvi/007-1 - 42 44 46 48 50 52 - 1 seri - 40 lei/kentachvi-engros-007-1.jpeg",
     "extraImages": [
-      "/products/Kentachvi/007-1 - 42 44 46 48 50 52 - 1 seri - 40 lei/IMG 9285 Flow May 31 19 02.jpeg"
+      "/products/Kentachvi/007-1 - 42 44 46 48 50 52 - 1 seri - 40 lei/kentachvi-engros-007-2.jpeg"
     ],
     "keywords": []
   },
@@ -464,9 +464,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/007-2 - 42 44 46 48 50 52 - 2 seri - 40 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/Kentachvi/007-2 - 42 44 46 48 50 52 - 2 seri - 40 lei/kentachvi-engros-007-1.jpeg",
     "extraImages": [
-      "/products/Kentachvi/007-2 - 42 44 46 48 50 52 - 2 seri - 40 lei/Flow May 31 2026 (1).jpeg"
+      "/products/Kentachvi/007-2 - 42 44 46 48 50 52 - 2 seri - 40 lei/kentachvi-engros-007-2.jpeg"
     ],
     "keywords": []
   },
@@ -476,7 +476,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/009 - 42 44 46 48 50 52 - 9 seri - 40 lei/Flow May 31 2026.jpeg",
+    "image": "/products/Kentachvi/009 - 42 44 46 48 50 52 - 9 seri - 40 lei/kentachvi-engros-009-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -486,7 +486,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/01 - 42 44 46 48 50 52 - 9 seri - 40 lei/IMG 9295 Flow May 31 19 02.jpeg",
+    "image": "/products/Kentachvi/01 - 42 44 46 48 50 52 - 9 seri - 40 lei/kentachvi-engros-01-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -496,7 +496,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/03 - 42 44 46 48 50 52 - 1 seri - 40 lei/Flow May 31 19-02 (3).jpeg",
+    "image": "/products/Kentachvi/03 - 42 44 46 48 50 52 - 1 seri - 40 lei/kentachvi-engros-03-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -506,7 +506,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Kentachvi",
-    "image": "/products/Kentachvi/204 - 42 44 46 48 50 52 - 5 seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/Kentachvi/204 - 42 44 46 48 50 52 - 5 seri - 40 lei/kentachvi-engros-204-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -516,10 +516,10 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "LOVE ME",
-    "image": "/products/LOVE ME/400 - 34 34 36 36 38 40 - 7 seri - 35 lei/E-commerce Product May 31 2026 copy.jpeg",
+    "image": "/products/LOVE ME/400 - 34 34 36 36 38 40 - 7 seri - 35 lei/love-me-engros-400-1.jpeg",
     "extraImages": [
-      "/products/LOVE ME/400 - 34 34 36 36 38 40 - 7 seri - 35 lei/E-commerce Product May 31 2026.jpeg",
-      "/products/LOVE ME/400 - 34 34 36 36 38 40 - 7 seri - 35 lei/E-commerce Product May 31.jpeg"
+      "/products/LOVE ME/400 - 34 34 36 36 38 40 - 7 seri - 35 lei/love-me-engros-400-2.jpeg",
+      "/products/LOVE ME/400 - 34 34 36 36 38 40 - 7 seri - 35 lei/love-me-engros-400-3.jpeg"
     ],
     "keywords": []
   },
@@ -529,9 +529,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "LOVE ME",
-    "image": "/products/LOVE ME/800 - 34 34 36 36 38 40 - 5 seri - 35 lei/E-commerce Product May 31.jpeg",
+    "image": "/products/LOVE ME/800 - 34 34 36 36 38 40 - 5 seri - 35 lei/love-me-engros-800-1.jpeg",
     "extraImages": [
-      "/products/LOVE ME/800 - 34 34 36 36 38 40 - 5 seri - 35 lei/IMG 9653 Flow May 31 19 02.jpeg"
+      "/products/LOVE ME/800 - 34 34 36 36 38 40 - 5 seri - 35 lei/love-me-engros-800-2.jpeg"
     ],
     "keywords": []
   },
@@ -541,10 +541,10 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 50,
     "brand": "MIELE",
-    "image": "/products/MIELE/156 - 34 36 36 38 38 40 40 42 - 1 seri - 50 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/MIELE/156 - 34 36 36 38 38 40 40 42 - 1 seri - 50 lei/miele-engros-156-1.jpeg",
     "extraImages": [
-      "/products/MIELE/156 - 34 36 36 38 38 40 40 42 - 1 seri - 50 lei/IMG 9319 Flow May 31 19 02.jpeg",
-      "/products/MIELE/156 - 34 36 36 38 38 40 40 42 - 1 seri - 50 lei/IMG 9320 Flow May 31 19 02.jpeg"
+      "/products/MIELE/156 - 34 36 36 38 38 40 40 42 - 1 seri - 50 lei/miele-engros-156-2.jpeg",
+      "/products/MIELE/156 - 34 36 36 38 38 40 40 42 - 1 seri - 50 lei/miele-engros-156-3.jpeg"
     ],
     "keywords": []
   },
@@ -554,7 +554,7 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/269 - 34 36 36 38 38 40 40 42 - 1 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/MIELE/269 - 34 36 36 38 38 40 40 42 - 1 seri - 35 lei/miele-engros-269-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -564,9 +564,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/284 - 34 36 36 38 38 40 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (7).jpeg",
+    "image": "/products/MIELE/284 - 34 36 36 38 38 40 40 42 - 1 seri - 35 lei/miele-engros-284-1.jpeg",
     "extraImages": [
-      "/products/MIELE/284 - 34 36 36 38 38 40 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (8).jpeg"
+      "/products/MIELE/284 - 34 36 36 38 38 40 40 42 - 1 seri - 35 lei/miele-engros-284-2.jpeg"
     ],
     "keywords": []
   },
@@ -576,11 +576,11 @@ export const products: Product[] = [
     "units": 5,
     "unitPrice": 40,
     "brand": "MIELE",
-    "image": "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/miele-engros-562-1.jpeg",
     "extraImages": [
-      "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/Flow May 31 19-02 (5).jpeg",
-      "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/Flow May 31 19-02 (6).jpeg",
-      "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/Gemini Product Image.png"
+      "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/miele-engros-562-2.jpeg",
+      "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/miele-engros-562-3.jpeg",
+      "/products/MIELE/562 - 34 36 36 38 38 - 1 seri - 40 lei/miele-engros-562-4.png"
     ],
     "keywords": []
   },
@@ -590,11 +590,11 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 40,
     "brand": "MIELE",
-    "image": "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/miele-engros-566-1.jpeg",
     "extraImages": [
-      "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/Flow May 31 19-02 (2).jpeg",
-      "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/Flow May 31 19-02 (3).jpeg",
-      "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/Gemini_Generated_Image_wyfev1wyfev1wyfe.png"
+      "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/miele-engros-566-2.jpeg",
+      "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/miele-engros-566-3.jpeg",
+      "/products/MIELE/566 - 36 36 38 38 40 42 44 46 - 1 seri - 40 lei/miele-engros-566-4.png"
     ],
     "keywords": []
   },
@@ -604,10 +604,10 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "MIELE",
-    "image": "/products/MIELE/572 - 34 36 36 38 38 40 - 1 seri - 40 lei/Facebook Image.jpg",
+    "image": "/products/MIELE/572 - 34 36 36 38 38 40 - 1 seri - 40 lei/miele-engros-572-1.jpg",
     "extraImages": [
-      "/products/MIELE/572 - 34 36 36 38 38 40 - 1 seri - 40 lei/IMG 9324 Flow May 31 19 02.jpeg",
-      "/products/MIELE/572 - 34 36 36 38 38 40 - 1 seri - 40 lei/IMG 9325 Flow May 31 19 02.jpeg"
+      "/products/MIELE/572 - 34 36 36 38 38 40 - 1 seri - 40 lei/miele-engros-572-2.jpeg",
+      "/products/MIELE/572 - 34 36 36 38 38 40 - 1 seri - 40 lei/miele-engros-572-3.jpeg"
     ],
     "keywords": []
   },
@@ -617,7 +617,7 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/609 - 36 36 38 38 40 42 44 46 - 1 seri - 35 lei/Flow May 31 19-02 (7).jpeg",
+    "image": "/products/MIELE/609 - 36 36 38 38 40 42 44 46 - 1 seri - 35 lei/miele-engros-609-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -627,10 +627,10 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 45,
     "brand": "MIELE",
-    "image": "/products/MIELE/614 - 40 42 44 46 48 50 - 1 seri - 45 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/MIELE/614 - 40 42 44 46 48 50 - 1 seri - 45 lei/miele-engros-614-1.jpeg",
     "extraImages": [
-      "/products/MIELE/614 - 40 42 44 46 48 50 - 1 seri - 45 lei/Flow May 31 19-02 (5).jpeg",
-      "/products/MIELE/614 - 40 42 44 46 48 50 - 1 seri - 45 lei/Flow May 31 19-02 (6).jpeg"
+      "/products/MIELE/614 - 40 42 44 46 48 50 - 1 seri - 45 lei/miele-engros-614-2.jpeg",
+      "/products/MIELE/614 - 40 42 44 46 48 50 - 1 seri - 45 lei/miele-engros-614-3.jpeg"
     ],
     "keywords": []
   },
@@ -640,9 +640,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 45,
     "brand": "MIELE",
-    "image": "/products/MIELE/615 - 40 42 44 46 48 50 - 2 seri - 45 lei/Flow May 31 19-02 (2).jpeg",
+    "image": "/products/MIELE/615 - 40 42 44 46 48 50 - 2 seri - 45 lei/miele-engros-615-1.jpeg",
     "extraImages": [
-      "/products/MIELE/615 - 40 42 44 46 48 50 - 2 seri - 45 lei/Flow May 31 19-02 (3).jpeg"
+      "/products/MIELE/615 - 40 42 44 46 48 50 - 2 seri - 45 lei/miele-engros-615-2.jpeg"
     ],
     "keywords": []
   },
@@ -652,10 +652,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/640 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/MIELE/640 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/miele-engros-640-1.jpeg",
     "extraImages": [
-      "/products/MIELE/640 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/Flow May 31 19-02.jpeg",
-      "/products/MIELE/640 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/OpenAI Playground June 1 2026.png"
+      "/products/MIELE/640 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/miele-engros-640-2.jpeg",
+      "/products/MIELE/640 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/miele-engros-640-3.png"
     ],
     "keywords": []
   },
@@ -665,10 +665,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/641 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/MIELE/641 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/miele-engros-641-1.jpeg",
     "extraImages": [
-      "/products/MIELE/641 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/Flow May 31 19-02.jpeg",
-      "/products/MIELE/641 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/Gemini Product Image Jeans.png"
+      "/products/MIELE/641 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/miele-engros-641-2.jpeg",
+      "/products/MIELE/641 - 34 36 36 38 38 40 42 - 3 seri - 35 lei/miele-engros-641-3.png"
     ],
     "keywords": []
   },
@@ -678,10 +678,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/642 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/Flow May 31 19-02 (2).jpeg",
+    "image": "/products/MIELE/642 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/miele-engros-642-1.jpeg",
     "extraImages": [
-      "/products/MIELE/642 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/Flow May 31 19-02 (3).jpeg",
-      "/products/MIELE/642 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/Professional Jeans Image.jpeg"
+      "/products/MIELE/642 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/miele-engros-642-2.jpeg",
+      "/products/MIELE/642 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/miele-engros-642-3.jpeg"
     ],
     "keywords": []
   },
@@ -691,10 +691,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/643 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/MIELE/643 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/miele-engros-643-1.jpeg",
     "extraImages": [
-      "/products/MIELE/643 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/Flow May 31 2026 (1).jpeg",
-      "/products/MIELE/643 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/Professional Jeans Image.png"
+      "/products/MIELE/643 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/miele-engros-643-2.jpeg",
+      "/products/MIELE/643 - 34 36 36 38 38 40 42 - 2 seri - 35 lei/miele-engros-643-3.png"
     ],
     "keywords": []
   },
@@ -704,9 +704,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "MIELE",
-    "image": "/products/MIELE/644 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 2026 (3).jpeg",
+    "image": "/products/MIELE/644 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/miele-engros-644-1.jpeg",
     "extraImages": [
-      "/products/MIELE/644 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/OpenAI Playground June 1 2026.png"
+      "/products/MIELE/644 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/miele-engros-644-2.png"
     ],
     "keywords": []
   },
@@ -716,9 +716,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1069 - 30 31 31 32 33 34 35 36 - 1 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/NYC/1069 - 30 31 31 32 33 34 35 36 - 1 seri - 35 lei/nyc-engros-1069-1.jpeg",
     "extraImages": [
-      "/products/NYC/1069 - 30 31 31 32 33 34 35 36 - 1 seri - 35 lei/IMG 9549 Flow May 31 19 02.jpeg"
+      "/products/NYC/1069 - 30 31 31 32 33 34 35 36 - 1 seri - 35 lei/nyc-engros-1069-2.jpeg"
     ],
     "keywords": []
   },
@@ -728,9 +728,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1070 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/NYC/1070 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/nyc-engros-1070-1.jpeg",
     "extraImages": [
-      "/products/NYC/1070 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/IMG 9681 Flow May 31 19 02.jpeg"
+      "/products/NYC/1070 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/nyc-engros-1070-2.jpeg"
     ],
     "keywords": []
   },
@@ -740,9 +740,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1074 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/NYC/1074 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/nyc-engros-1074-1.jpeg",
     "extraImages": [
-      "/products/NYC/1074 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/IMG 9670 Flow May 31 19 02.jpeg"
+      "/products/NYC/1074 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/nyc-engros-1074-2.jpeg"
     ],
     "keywords": []
   },
@@ -752,9 +752,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1075 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/Flow May 31 19-02 copy.jpeg",
+    "image": "/products/NYC/1075 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/nyc-engros-1075-1.jpeg",
     "extraImages": [
-      "/products/NYC/1075 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/Flow May 31 19-02.jpeg"
+      "/products/NYC/1075 - 30 31 31 32 33 34 35 36 - 3 seri - 35 lei/nyc-engros-1075-2.jpeg"
     ],
     "keywords": []
   },
@@ -764,9 +764,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1101 - 34 34 36 36 38 38 40 42 - 2 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/NYC/1101 - 34 34 36 36 38 38 40 42 - 2 seri - 35 lei/nyc-engros-1101-1.jpeg",
     "extraImages": [
-      "/products/NYC/1101 - 34 34 36 36 38 38 40 42 - 2 seri - 35 lei/IMG_9596.JPG_202605312225.jpeg"
+      "/products/NYC/1101 - 34 34 36 36 38 38 40 42 - 2 seri - 35 lei/nyc-engros-1101-2.jpeg"
     ],
     "keywords": []
   },
@@ -776,10 +776,10 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1318 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/NYC/1318 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/nyc-engros-1318-1.jpeg",
     "extraImages": [
-      "/products/NYC/1318 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02.jpeg",
-      "/products/NYC/1318 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/IMG 9560 Flow May 31 19 02.jpeg"
+      "/products/NYC/1318 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/nyc-engros-1318-2.jpeg",
+      "/products/NYC/1318 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/nyc-engros-1318-3.jpeg"
     ],
     "keywords": []
   },
@@ -789,10 +789,10 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/1327 - 26 27 28 29 30 31 - 1 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/NYC/1327 - 26 27 28 29 30 31 - 1 seri - 35 lei/nyc-engros-1327-1.jpeg",
     "extraImages": [
-      "/products/NYC/1327 - 26 27 28 29 30 31 - 1 seri - 35 lei/Flow May 31 19-02.jpeg",
-      "/products/NYC/1327 - 26 27 28 29 30 31 - 1 seri - 35 lei/IMG 9686 Flow May 31 19 02.jpeg"
+      "/products/NYC/1327 - 26 27 28 29 30 31 - 1 seri - 35 lei/nyc-engros-1327-2.jpeg",
+      "/products/NYC/1327 - 26 27 28 29 30 31 - 1 seri - 35 lei/nyc-engros-1327-3.jpeg"
     ],
     "keywords": []
   },
@@ -802,9 +802,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "NYC",
-    "image": "/products/NYC/2000 - 42 44 46 46 48 50 52 - 6  seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/NYC/2000 - 42 44 46 46 48 50 52 - 6  seri - 40 lei/nyc-engros-2000-1.jpeg",
     "extraImages": [
-      "/products/NYC/2000 - 42 44 46 46 48 50 52 - 6  seri - 40 lei/IMG 9640 Flow May 31 19 02.jpeg"
+      "/products/NYC/2000 - 42 44 46 46 48 50 52 - 6  seri - 40 lei/nyc-engros-2000-2.jpeg"
     ],
     "keywords": []
   },
@@ -814,9 +814,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 35,
     "brand": "NYC",
-    "image": "/products/NYC/4001 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/NYC/4001 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/nyc-engros-4001-1.jpeg",
     "extraImages": [
-      "/products/NYC/4001 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/IMG 9557 Flow May 31 19 02.jpeg"
+      "/products/NYC/4001 - 34 36 36 38 38 40 42 - 1 seri - 35 lei/nyc-engros-4001-2.jpeg"
     ],
     "keywords": []
   },
@@ -826,7 +826,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/10011 - 42 44 46 48 50 52 - 10 seri - 40 lei/Flow May 31 19-02 (3).jpeg",
+    "image": "/products/Noventa/10011 - 42 44 46 48 50 52 - 10 seri - 40 lei/noventa-engros-10011-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -836,10 +836,10 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/10012 - 42 44 46 48 50 52 - 9 seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/Noventa/10012 - 42 44 46 48 50 52 - 9 seri - 40 lei/noventa-engros-10012-1.jpeg",
     "extraImages": [
-      "/products/Noventa/10012 - 42 44 46 48 50 52 - 9 seri - 40 lei/IMG 9343 Flow May 31 19 02.jpeg",
-      "/products/Noventa/10012 - 42 44 46 48 50 52 - 9 seri - 40 lei/IMG_9340.JPG_202605312348.jpeg"
+      "/products/Noventa/10012 - 42 44 46 48 50 52 - 9 seri - 40 lei/noventa-engros-10012-2.jpeg",
+      "/products/Noventa/10012 - 42 44 46 48 50 52 - 9 seri - 40 lei/noventa-engros-10012-3.jpeg"
     ],
     "keywords": []
   },
@@ -849,9 +849,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/102 - 44 46 48 50 52 54 - 6 seri - 40 lei/IMG 9370 Flow May 31 19 02.jpeg",
+    "image": "/products/Noventa/102 - 44 46 48 50 52 54 - 6 seri - 40 lei/noventa-engros-102-1.jpeg",
     "extraImages": [
-      "/products/Noventa/102 - 44 46 48 50 52 54 - 6 seri - 40 lei/OpenAI Playground June 1 2026.png"
+      "/products/Noventa/102 - 44 46 48 50 52 54 - 6 seri - 40 lei/noventa-engros-102-2.png"
     ],
     "keywords": []
   },
@@ -861,7 +861,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Noventa",
-    "image": "/products/Noventa/104 - 34 36 36 38 40 42 - 2 seri - 35 lei/Flow May 31 19-02 (8).jpeg",
+    "image": "/products/Noventa/104 - 34 36 36 38 40 42 - 2 seri - 35 lei/noventa-engros-104-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -871,7 +871,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/2 - 42 44 46 48 50 52 - 3 seri - 40 lei/Flow May 31 19:02.jpeg",
+    "image": "/products/Noventa/2 - 42 44 46 48 50 52 - 3 seri - 40 lei/noventa-engros-2-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -881,9 +881,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/208 - 42 44 46 48 50 52 - 2 seri - 40 lei/Flow May 31 19-02 (6).jpeg",
+    "image": "/products/Noventa/208 - 42 44 46 48 50 52 - 2 seri - 40 lei/noventa-engros-208-1.jpeg",
     "extraImages": [
-      "/products/Noventa/208 - 42 44 46 48 50 52 - 2 seri - 40 lei/IMG_9361.JPG_202605312340.jpeg"
+      "/products/Noventa/208 - 42 44 46 48 50 52 - 2 seri - 40 lei/noventa-engros-208-2.jpeg"
     ],
     "keywords": []
   },
@@ -893,7 +893,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/2081 - 42 44 46 48 50 52 - 4 seri - 40 lei/Flow May 31 19-02 (5).jpeg",
+    "image": "/products/Noventa/2081 - 42 44 46 48 50 52 - 4 seri - 40 lei/noventa-engros-2081-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -903,7 +903,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/2082 - 42 44 46 48 50 52 - 1 seri - 40 lei/IMG 9364 Flow May 31 19 02.jpeg",
+    "image": "/products/Noventa/2082 - 42 44 46 48 50 52 - 1 seri - 40 lei/noventa-engros-2082-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -913,7 +913,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "Noventa",
-    "image": "/products/Noventa/3 - 42 44 46 48 50 52 - 7 seri - 40 lei/Flow May 31 19-02 (7).jpeg",
+    "image": "/products/Noventa/3 - 42 44 46 48 50 52 - 7 seri - 40 lei/noventa-engros-3-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -923,7 +923,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Noventa",
-    "image": "/products/Noventa/303 - 34 36 36 38 40 42 - 1 seri - 35 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/Noventa/303 - 34 36 36 38 40 42 - 1 seri - 35 lei/noventa-engros-303-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -933,9 +933,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "ONDI",
-    "image": "/products/ONDI/20452 - 26 27 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/ONDI/20452 - 26 27 28 29 30 31 - 2 seri - 35 lei/ondi-engros-20452-1.jpeg",
     "extraImages": [
-      "/products/ONDI/20452 - 26 27 28 29 30 31 - 2 seri - 35 lei/IMG 9378 Flow May 31 19 02.jpeg"
+      "/products/ONDI/20452 - 26 27 28 29 30 31 - 2 seri - 35 lei/ondi-engros-20452-2.jpeg"
     ],
     "keywords": []
   },
@@ -945,9 +945,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 40,
     "brand": "ONDI",
-    "image": "/products/ONDI/3001 - 26 27 28 29 30 31 - 1 seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/ONDI/3001 - 26 27 28 29 30 31 - 1 seri - 40 lei/ondi-engros-3001-1.jpeg",
     "extraImages": [
-      "/products/ONDI/3001 - 26 27 28 29 30 31 - 1 seri - 40 lei/IMG 9375 Flow May 31 19 02.jpeg"
+      "/products/ONDI/3001 - 26 27 28 29 30 31 - 1 seri - 40 lei/ondi-engros-3001-2.jpeg"
     ],
     "keywords": []
   },
@@ -957,7 +957,7 @@ export const products: Product[] = [
     "units": 9,
     "unitPrice": 35,
     "brand": "Powermix",
-    "image": "/products/Powermix/1006 - 26 27 27 28 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (5).jpeg",
+    "image": "/products/Powermix/1006 - 26 27 27 28 28 28 29 30 31 - 2 seri - 35 lei/powermix-engros-1006-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -967,7 +967,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Powermix",
-    "image": "/products/Powermix/1044 - 26 27 28 29 30 31 - 1 seri - 35 lei/Flow May 31 19-02 (4).jpeg",
+    "image": "/products/Powermix/1044 - 26 27 28 29 30 31 - 1 seri - 35 lei/powermix-engros-1044-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -977,10 +977,10 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Powermix",
-    "image": "/products/Powermix/1071 - 26 27 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (3).jpeg",
+    "image": "/products/Powermix/1071 - 26 27 28 29 30 31 - 2 seri - 35 lei/powermix-engros-1071-1.jpeg",
     "extraImages": [
-      "/products/Powermix/1071 - 26 27 28 29 30 31 - 2 seri - 35 lei/IMG 9419 Flow May 31 19 02.jpeg",
-      "/products/Powermix/1071 - 26 27 28 29 30 31 - 2 seri - 35 lei/IMG 9420 Flow May 31 19 02.jpeg"
+      "/products/Powermix/1071 - 26 27 28 29 30 31 - 2 seri - 35 lei/powermix-engros-1071-2.jpeg",
+      "/products/Powermix/1071 - 26 27 28 29 30 31 - 2 seri - 35 lei/powermix-engros-1071-3.jpeg"
     ],
     "keywords": []
   },
@@ -990,7 +990,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Powermix",
-    "image": "/products/Powermix/543 - 30 31 32 33 34 36 - 2 seri - 35 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/Powermix/543 - 30 31 32 33 34 36 - 2 seri - 35 lei/powermix-engros-543-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -1000,7 +1000,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Powermix",
-    "image": "/products/Powermix/544 - 30 31 32 33 34 36 - 3 seri - 35 lei/Flow May 31 19-02 (6).jpeg",
+    "image": "/products/Powermix/544 - 30 31 32 33 34 36 - 3 seri - 35 lei/powermix-engros-544-1.jpeg",
     "extraImages": [],
     "keywords": []
   },
@@ -1010,9 +1010,9 @@ export const products: Product[] = [
     "units": 8,
     "unitPrice": 35,
     "brand": "Powermix",
-    "image": "/products/Powermix/6001 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (1).jpeg",
+    "image": "/products/Powermix/6001 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/powermix-engros-6001-1.jpeg",
     "extraImages": [
-      "/products/Powermix/6001 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/Flow May 31 19-02 (2).jpeg"
+      "/products/Powermix/6001 - 26 27 27 28 28 29 30 31 - 2 seri - 35 lei/powermix-engros-6001-2.jpeg"
     ],
     "keywords": []
   },
@@ -1022,9 +1022,9 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "Rock Jeans",
-    "image": "/products/Rock Jeans/1000 - 34 36 36 38 40 42 - 5 seri - 35 lei/Convert to 1:1 Square May 31.jpeg",
+    "image": "/products/Rock Jeans/1000 - 34 36 36 38 40 42 - 5 seri - 35 lei/rock-jeans-engros-1000-1.jpeg",
     "extraImages": [
-      "/products/Rock Jeans/1000 - 34 36 36 38 40 42 - 5 seri - 35 lei/Single Square Composite May 31 2026.jpeg"
+      "/products/Rock Jeans/1000 - 34 36 36 38 40 42 - 5 seri - 35 lei/rock-jeans-engros-1000-2.jpeg"
     ],
     "keywords": []
   },
@@ -1034,9 +1034,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "TWN",
-    "image": "/products/TWN/835 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/E-commerce Product Image May 31 (1).jpeg",
+    "image": "/products/TWN/835 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/twn-engros-835-1.jpeg",
     "extraImages": [
-      "/products/TWN/835 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/E-commerce Product Image May 31.jpeg"
+      "/products/TWN/835 - 34 36 36 38 38 40 42 - 2 seri - 40 lei/twn-engros-835-2.jpeg"
     ],
     "keywords": []
   },
@@ -1046,9 +1046,9 @@ export const products: Product[] = [
     "units": 7,
     "unitPrice": 40,
     "brand": "TWN",
-    "image": "/products/TWN/879 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/E-commerce Product Image May 31.jpeg",
+    "image": "/products/TWN/879 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/twn-engros-879-1.jpeg",
     "extraImages": [
-      "/products/TWN/879 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/E-commerce Product May 31.jpeg"
+      "/products/TWN/879 - 34 36 36 38 38 40 42 - 1 seri - 40 lei/twn-engros-879-2.jpeg"
     ],
     "keywords": []
   },
@@ -1058,10 +1058,10 @@ export const products: Product[] = [
     "units": 10,
     "unitPrice": 40,
     "brand": "The Bark",
-    "image": "/products/The Bark/00026 - 42 42 44 44 46 46 48 48 50 50 - 2 seri - 40 lei/Flow May 31 19-02.jpeg",
+    "image": "/products/The Bark/00026 - 42 42 44 44 46 46 48 48 50 50 - 2 seri - 40 lei/the-bark-engros-00026-1.jpeg",
     "extraImages": [
-      "/products/The Bark/00026 - 42 42 44 44 46 46 48 48 50 50 - 2 seri - 40 lei/IMG 9471 Flow May 31 19 02.jpeg",
-      "/products/The Bark/00026 - 42 42 44 44 46 46 48 48 50 50 - 2 seri - 40 lei/IMG_9473.JPG_202605312256.jpeg"
+      "/products/The Bark/00026 - 42 42 44 44 46 46 48 48 50 50 - 2 seri - 40 lei/the-bark-engros-00026-2.jpeg",
+      "/products/The Bark/00026 - 42 42 44 44 46 46 48 48 50 50 - 2 seri - 40 lei/the-bark-engros-00026-3.jpeg"
     ],
     "keywords": []
   },
@@ -1071,7 +1071,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "The Bark",
-    "image": "/products/The Bark/420 - 34 36 36 38 38 40 - 2 seri - 35 lei/OpenAI Playground June 1 2026.png",
+    "image": "/products/The Bark/420 - 34 36 36 38 38 40 - 2 seri - 35 lei/the-bark-engros-420-1.png",
     "extraImages": [],
     "keywords": []
   },
@@ -1081,7 +1081,7 @@ export const products: Product[] = [
     "units": 6,
     "unitPrice": 35,
     "brand": "The Bark",
-    "image": "/products/The Bark/425 - 34 36 36 38 38 40 - 3 seri - 35 lei/OpenAI Playground June 1 2026.png",
+    "image": "/products/The Bark/425 - 34 36 36 38 38 40 - 3 seri - 35 lei/the-bark-engros-425-1.png",
     "extraImages": [],
     "keywords": []
   }
