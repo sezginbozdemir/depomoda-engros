@@ -27,6 +27,48 @@ export const products: Product[] = [
     "keywords": []
   },
   {
+    "id": "00023",
+    "sizes": "34 - 42",
+    "units": 6,
+    "unitPrice": 40,
+    "brand": "DEPOMODA",
+    "image": "/products/DEPOMODA/00023 - 34 36 36 38 40 42 - 1 seri - 40 lei/depomoda-engros-00023-1.jpeg",
+    "extraImages": [],
+    "keywords": []
+  },
+  {
+    "id": "001",
+    "sizes": "34 - 42",
+    "units": 5,
+    "unitPrice": 35,
+    "brand": "DEPOMODA",
+    "image": "/products/DEPOMODA/001 - 34 36 38 40 42 - 1 seri - 35 lei/depomoda-engros-001-1.jpeg",
+    "extraImages": [],
+    "keywords": []
+  },
+  {
+    "id": "00GRJ",
+    "sizes": "34 - 40",
+    "units": 6,
+    "unitPrice": 40,
+    "brand": "DEPOMODA",
+    "image": "/products/DEPOMODA/00GRJ - 34 36 36 38 38 40 - 2 seri - 40 lei/depomoda-engros-00-1.jpeg",
+    "extraImages": [
+      "/products/DEPOMODA/00GRJ - 34 36 36 38 38 40 - 2 seri - 40 lei/depomoda-engros-00-2.jpeg"
+    ],
+    "keywords": []
+  },
+  {
+    "id": "7430",
+    "sizes": "34 - 42",
+    "units": 6,
+    "unitPrice": 35,
+    "brand": "DEPOMODA",
+    "image": "/products/DEPOMODA/7430 - 34 36 36 38 40 42 - 1 seri - 35 lei/depomoda-engros-7430-1.jpeg",
+    "extraImages": [],
+    "keywords": []
+  },
+  {
     "id": "4593",
     "sizes": "34 - 42",
     "units": 8,
@@ -1089,6 +1131,7 @@ export const products: Product[] = [
 
 export const ALL_KEYWORDS: string[] = [
   "Cavallione",
+  "DEPOMODA",
   "EVA",
   "FAF",
   "HAPPY PINK",
